@@ -2,7 +2,7 @@
 
 
 
-* `rm -rf RANDOM-CLONING-`
+* `rm -rf MIX`
 
 * `git clone https://github.com/MR-META-404-CYBER/MIX.git`
 
